@@ -11,3 +11,6 @@ public class ProjectApplication {
 	}
 
 }
+public ProjectApplication(){
+	System.out.println "hello";
+}
